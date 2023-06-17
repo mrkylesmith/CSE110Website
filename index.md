@@ -11,7 +11,7 @@
 
 **I have one brother and _three_ dogs**.
 
-***I'm originally from San Deigo.***
+***I'm originally from San Diego.***
 
 ### Things I enjoy:
 Being outside/hiking, traveling, the beach/surfing, programming, reading, soccer.
