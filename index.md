@@ -1,4 +1,4 @@
-# Hello, I'm Kyle :wave:
+# Hello, I'm Kyle
 <hr>
 
 ![picture](images/headshot.png)
@@ -30,9 +30,9 @@ This is an image of my favorite surf break:
 <hr>
 <br>
 
-~~Favorite Programming Language: ` MATLAB`~~
+~~Favorite Programming Language: `MATLAB`~~
 
-Favorite Programming Language: ` Vimscript` :black_joker:	
+Favorite Programming Language: `Vimscript`
 
 ```vim
 set belloff=all
