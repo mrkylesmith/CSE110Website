@@ -17,8 +17,7 @@
 Being outside/hiking, traveling, the beach/surfing, programming, reading, soccer.
 <sup>*Hopefully this list will continue to grow as I enjoy learning new things</sup>
 
-This is an image of my favorite surf break:
-![picture](images/haapiti.png)
+[This is an picture of my favorite surf break](images/haapiti.png)
 
 <hr>
 
